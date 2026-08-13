@@ -5,7 +5,7 @@ Windowsos WinForms alkalmazás 125 kHz-es RFID olvasó/író kártyaolvasóhoz
 megjelenítéssel, kártya-állapot vizsgálat, írás (T4100 / E4100 / EL4100),
 törlés, feloldás, lezárás-írás után, diagnosztika.
 
-Az eszközt a gyári `IDReader.dll`-en keresztül vezérli (a `vendor/` mappában).
+Az eszközt a gyári `IDReader.dll`-en keresztül vezérli.
 Többnyelvű felület (magyar / angol), futás közben váltható.
 
 ## Funkciók
@@ -33,8 +33,7 @@ Többnyelvű felület (magyar / angol), futás közben váltható.
 
 - 125 kHz RFID olvasó/író, EM4100 kompatibilis kártyákkal (olvasás),
   T5577-el (írás), CH341-alapú USB HID eszköz (VID `1A86`, PID `DD01`).
-- A gyári `IDReader.dll` a `vendor/` mappában található, a build a program
-  mellé másolja, és a program megnyitáskor betölti (a fájlnév a
+- A gyári `IDReader.dll`-t a program megnyitáskor betölti (a fájlnév a
   `rfid125k.json` `vendorDll` mezőjében módosítható).
 
 ## Követelmények és build
