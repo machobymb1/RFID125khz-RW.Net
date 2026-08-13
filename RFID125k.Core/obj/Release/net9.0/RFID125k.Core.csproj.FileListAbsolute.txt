@@ -1,0 +1,11 @@
+C:\opencode\rfid125k\RFID125k.Core\bin\Release\net9.0\RFID125k.Core.deps.json
+C:\opencode\rfid125k\RFID125k.Core\bin\Release\net9.0\RFID125k.Core.dll
+C:\opencode\rfid125k\RFID125k.Core\bin\Release\net9.0\RFID125k.Core.pdb
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\RFID125k.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\RFID125k.Core.AssemblyInfoInputs.cache
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\RFID125k.Core.AssemblyInfo.cs
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\RFID125k.Core.csproj.CoreCompileInputs.cache
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\RFID125k.Core.dll
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\refint\RFID125k.Core.dll
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\RFID125k.Core.pdb
+C:\opencode\rfid125k\RFID125k.Core\obj\Release\net9.0\ref\RFID125k.Core.dll

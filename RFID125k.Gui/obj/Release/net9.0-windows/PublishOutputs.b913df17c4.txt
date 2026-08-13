@@ -1,0 +1,12 @@
+C:\opencode\rfid125k\publish\RFID125k.Gui.exe
+C:\opencode\rfid125k\publish\IDReader.dll
+C:\opencode\rfid125k\publish\rfid125k.json
+C:\opencode\rfid125k\publish\lang.en.json
+C:\opencode\rfid125k\publish\lang.hu.json
+C:\opencode\rfid125k\publish\rfid125k.ico
+C:\opencode\rfid125k\publish\RFID125k.Gui.dll
+C:\opencode\rfid125k\publish\RFID125k.Gui.deps.json
+C:\opencode\rfid125k\publish\RFID125k.Gui.runtimeconfig.json
+C:\opencode\rfid125k\publish\RFID125k.Gui.pdb
+C:\opencode\rfid125k\publish\RFID125k.Core.dll
+C:\opencode\rfid125k\publish\RFID125k.Core.pdb
