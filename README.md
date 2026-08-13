@@ -5,8 +5,7 @@ A Windows WinForms application for a 125 kHz RFID card reader/writer
 status inspection, writing (T4100 / E4100 / EL4100), erasing, unlocking,
 lock-after-write, and diagnostics.
 
-The device is controlled through the vendor `IDReader.dll` (in the
-`vendor/` folder). Multilingual UI (Hungarian / English), switchable at
+The device is controlled through the vendor `IDReader.dll`. Multilingual UI (Hungarian / English), switchable at
 runtime.
 
 ## Features
@@ -35,8 +34,7 @@ runtime.
 
 - 125 kHz RFID reader/writer for EM4100 compatible cards (reading) and
   T5577 (writing), a CH341-based USB HID device (VID `1A86`, PID `DD01`).
-- The vendor `IDReader.dll` is provided in the `vendor/` folder; the build
-  copies it next to the executable, and the program loads it at startup
+- The build copies it next to the executable, and the program loads it at startup
   (the file name can be changed via the `vendorDll` field in
   `rfid125k.json`).
 
